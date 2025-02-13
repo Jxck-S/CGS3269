@@ -1,4 +1,4 @@
-# Assembly Class Projects 
+# Computer Architecture (CGS3269)
 #### My work from UCF for CGS3269 (Computer Architecture) taken with Euripides Montagne
 
 - Project 1, a 3 Digit Multiplier A, B, C, No negatives, in MARIE (MARIE Assembly Language)
